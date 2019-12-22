@@ -41,6 +41,7 @@ docker pull git.ita.chalmers.se:4443/xkong/cfsd-opendlv-device-camera-zed:v0.0.1
 ```
 
 However, I use docker login to the URL for the camera repo. What if I want to download another repo? 
+I think it is login the xkong,so you only need to login it once. And name the repos/images name. Then you could download it.
 
 ## Run the camera docker
 
