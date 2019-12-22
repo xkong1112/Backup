@@ -28,8 +28,8 @@ docker login git.ita.chalmers.se:4443/xkong/cfsd-opendlv-device-camera-zed
 Then type the user name and password
 
 ```
-xkong
-yESY2PVsv_xxGgUyKo6i
+$Username
+$Password
 ```
 
 Password is got from the Personal Access Token (in User Settings/ Access Tokens) with an expired date. (Scopes: read_registry)
